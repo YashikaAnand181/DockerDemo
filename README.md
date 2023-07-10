@@ -1,3 +1,3 @@
 # DockerDemo
-Use this repo to deploy KBC game application on docker
+This is just to deploy my msg on docker
 
