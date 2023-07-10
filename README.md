@@ -1,2 +1,3 @@
 # DockerDemo
-This is to deploy my file on AWS using docker
+Use this repo to deploy KBC game application on docker
+
